@@ -78,6 +78,7 @@ body {
   font-size: 25px;
   color: #253237;
   margin-left: 10px;
+  padding-right: 3px;
 }
 
 .link-bar .right a:hover {
@@ -95,6 +96,7 @@ body {
   flex-direction: column;
   gap: 10px;
   align-items: flex-start;
+  padding-top: 20px;
 }
 
 .body .body-left h1 {
@@ -116,6 +118,37 @@ body {
   width: 60%;
   background-color: white;
   margin: 0 12px;
+}
+
+.body .body-right {
+  position: relative;
+  margin-left: auto;
+  margin-right: 12px;
+}
+
+.body .body-right img {
+  display: block;
+  width: 400px;
+  height: auto;
+  margin-top: -60px;
+  position: relative;
+  z-index: 1;
+}
+
+.body .body-right img:first-child {
+  margin-top: 0;
+}
+
+.body .body-right .img1 {
+  border: 3px solid #ff5733;
+}
+
+.body .body-right .img2 {
+  border: 3px solid #33c1ff;
+}
+
+.body .body-right .img3 {
+  border: 3px solid #75ff33;
 }
 
 footer {
