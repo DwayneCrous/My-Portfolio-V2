@@ -13,3 +13,9 @@ This portfolio is designed to give visitors a glimpse into my work and achieveme
 ### ⚠️ Work in Progress
 
 Please note that this website is still a **major work in progress**. I'm actively building and refining its content and features. Some sections may currently be incomplete or under construction.
+
+### 📜 Check List
+
+- **Home Page**: ✅
+- **Projects Page**:
+- **Search Page**:
