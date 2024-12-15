@@ -136,7 +136,11 @@ body {
 }
 
 .body .body-right img:first-child {
-  margin-top: 0;
+  margin-top: 13px;
+}
+
+.body .body-right img:last-child {
+  margin-bottom: 13px;
 }
 
 .body .body-right .img1 {
