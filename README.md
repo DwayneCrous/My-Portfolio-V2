@@ -17,5 +17,5 @@ Please note that this website is still a **major work in progress**. I'm activel
 ### 📜 Check List
 
 - **Home Page**: ✅
-- **Projects Page**:
+- **Projects Page**: 🏗️In Progress👷🏻‍♂️
 - **Search Page**:
