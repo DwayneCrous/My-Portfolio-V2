@@ -18,4 +18,5 @@ Please note that this website is still a **major work in progress**. I'm activel
 
 - **Home Page**: ✅
 - **Projects Page**: 🏗️In Progress👷🏻‍♂️
+- **About Me Page**:
 - **Search Page**:
