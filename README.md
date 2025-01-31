@@ -6,8 +6,9 @@ Welcome to my personal portfolio website! 🚀 This is where I showcase my proje
 
 This portfolio is designed to give visitors a glimpse into my work and achievements. It includes sections for:
 
-- **Home Page**: A brief introduction to who I am.
+- **Home Page**: A brief introduction to what I do and what I want to achieve.
 - **Projects**: Highlights of my past and ongoing projects.
+- **About Me Page**: Learn more about me.
 - **Search**: A future feature to help you find specific information quickly.
 
 ### ⚠️ Work in Progress
